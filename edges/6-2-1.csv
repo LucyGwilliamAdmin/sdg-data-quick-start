@@ -1,1 +1,4 @@
 From,To
+concept.REF_AREA,concept.URBANISATION
+concept.REF_AREA,concept.INCOME_WEALTH_QUANTILE
+concept.REF_AREA,concept.EDUCATION_LEV
