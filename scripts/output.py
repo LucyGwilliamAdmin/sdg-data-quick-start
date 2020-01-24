@@ -61,6 +61,7 @@ for sdmx_file in sdmx_files:
     if get_file_type(sdmx_file) == 'StructureSpecificData':
         data_input = sdg.inputs.InputSdmxMl_StructureSpecific(
             source=sdmx_file,
+            import_translation_keys=True,
             dimension_map=dimension_map,
             dsd=dsd,
             indicator_id_map=indicator_id_map,
