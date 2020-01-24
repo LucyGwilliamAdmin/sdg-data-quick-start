@@ -99,7 +99,7 @@ translations = [
     sdg.translations.TranslationInputSdgTranslations(source='https://github.com/open-sdg/translations-un-sdg.git', tag='1.0.0-rc1'),
     # Also pull in translations from the 'translations' folder in this repo.
     sdg.translations.TranslationInputYaml(source='translations'),
-    sdg.translations.TranslationInputCsv(source='translations')
+    sdg.translations.TranslationInputCsv(source='translations'),
     sdg.translations.TranslationInputSdmx(source=dsd)
 ]
 
