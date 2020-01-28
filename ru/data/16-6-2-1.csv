@@ -1,9 +1,9 @@
 Year,concept.FREQ,concept.REF_AREA,Value
-2015,code.A,code.KG,235
-2016,code.A,code.KG,285
-2017,code.A,code.KG,311
-2018,code.A,code.KG,273
-2019,code.S,code.KG,273
+2015,code.A,,235
+2016,code.A,,285
+2017,code.A,,311
+2018,code.A,,273
+2019,code.S,,273
 2015,code.A,code.KG05,294
 2016,code.A,code.KG05,479
 2017,code.A,code.KG05,462

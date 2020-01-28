@@ -1,5 +1,5 @@
 Year,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
-2018,Kyrgyzstan,,,,,674.0
+2018,,,,,,674.0
 2018,Batken,,,,,486.0
 2018,Jalal-Abad,,,,,562.0
 2018,Issyk-Kul,,,,,651.0
@@ -9,22 +9,22 @@ Year,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Educati
 2018,Chui,,,,,707.0
 2018,Bishkek (city),,,,,696.0
 2018,Osh (city),,,,,713.0
-2018,Kyrgyzstan,,Urban,,,686.0
-2018,Kyrgyzstan,,Regional,,,667.0
-2018,Kyrgyzstan,15 to 19 years old,,,,317.0
-2018,Kyrgyzstan,20 to 24 years old,,,,538.0
-2018,Kyrgyzstan,25 to 29 years old,,,,599.0
-2018,Kyrgyzstan,30 to 34 years old,,,,762.0
-2018,Kyrgyzstan,35 to 39 years old,,,,745.0
-2018,Kyrgyzstan,40 to 44 years old,,,,687.0
-2018,Kyrgyzstan,45 to 49 years old,,,,660.0
-2018,Kyrgyzstan,,,,Pre-primary education,
-2018,Kyrgyzstan,,,,Primary education,678.0
-2018,Kyrgyzstan,,,,Lower secondary education,629.0
-2018,Kyrgyzstan,,,,Upper secondary education,662.0
-2018,Kyrgyzstan,,,,Post-secondary non-tertiary education,743.0
-2018,Kyrgyzstan,,,Quintile 1 (poorest),,665.0
-2018,Kyrgyzstan,,,Quintile 2,,607.0
-2018,Kyrgyzstan,,,Quintile 3,,692.0
-2018,Kyrgyzstan,,,Quintile 4,,693.0
-2018,Kyrgyzstan,,,Quintile 5 (richest),,714.0
+2018,,,Urban,,,686.0
+2018,,,Regional,,,667.0
+2018,,15 to 19 years old,,,,317.0
+2018,,20 to 24 years old,,,,538.0
+2018,,25 to 29 years old,,,,599.0
+2018,,30 to 34 years old,,,,762.0
+2018,,35 to 39 years old,,,,745.0
+2018,,40 to 44 years old,,,,687.0
+2018,,45 to 49 years old,,,,660.0
+2018,,,,,Pre-primary education,
+2018,,,,,Primary education,678.0
+2018,,,,,Lower secondary education,629.0
+2018,,,,,Upper secondary education,662.0
+2018,,,,,Post-secondary non-tertiary education,743.0
+2018,,,,Quintile 1 (poorest),,665.0
+2018,,,,Quintile 2,,607.0
+2018,,,,Quintile 3,,692.0
+2018,,,,Quintile 4,,693.0
+2018,,,,Quintile 5 (richest),,714.0

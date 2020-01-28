@@ -1,6 +1,6 @@
 Year,concept.REF_AREA,Value
-2014,code.KG,28
-2018,code.KG,20
+2014,,28
+2018,,20
 2014,code.KG05,22
 2018,code.KG05,23
 2014,code.KG03,79
@@ -19,8 +19,8 @@ Year,concept.REF_AREA,Value
 2018,code.KG11,6
 2014,code.KG21,24
 2018,code.KG21,18
-2014,code.KG,70
-2018,code.KG,69
+2014,,70
+2018,,69
 2014,code.KG05,34
 2018,code.KG05,69
 2014,code.KG03,87

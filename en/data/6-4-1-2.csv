@@ -1,9 +1,9 @@
 Year,Reference area,Units,Value
-2014,Kyrgyzstan,Million of cubic metres per annum,2029.8
-2015,Kyrgyzstan,Million of cubic metres per annum,2092.3
-2016,Kyrgyzstan,Million of cubic metres per annum,1841.6
-2017,Kyrgyzstan,Million of cubic metres per annum,2128.3
-2018,Kyrgyzstan,Million of cubic metres per annum,2085.2
+2014,,Million of cubic metres per annum,2029.8
+2015,,Million of cubic metres per annum,2092.3
+2016,,Million of cubic metres per annum,1841.6
+2017,,Million of cubic metres per annum,2128.3
+2018,,Million of cubic metres per annum,2085.2
 2014,Batken,Million of cubic metres per annum,4.3
 2015,Batken,Million of cubic metres per annum,114.7
 2016,Batken,Million of cubic metres per annum,114.5
@@ -46,11 +46,11 @@ Year,Reference area,Units,Value
 2018,Bishkek (city),Million of cubic metres per annum,25.3
 2017,Osh (city),Million of cubic metres per annum,6.8
 2018,Osh (city),Million of cubic metres per annum,6.8
-2014,Kyrgyzstan,Portugal,26.5
-2015,Kyrgyzstan,Portugal,27.6
-2016,Kyrgyzstan,Portugal,25.1
-2017,Kyrgyzstan,Portugal,27.8
-2018,Kyrgyzstan,Portugal,26.9
+2014,,Portugal,26.5
+2015,,Portugal,27.6
+2016,,Portugal,25.1
+2017,,Portugal,27.8
+2018,,Portugal,26.9
 2014,Batken,Portugal,0.7
 2015,Batken,Portugal,17.8
 2016,Batken,Portugal,17.7
