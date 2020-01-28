@@ -23,10 +23,6 @@ def get_file_type(file):
     return file_type
 
 def fix_data(df):
-    # For "Reference area", we want "Kyrgyzstan" to be the default.
-    if 'Reference area' in df:
-        df['Reference area'] = df['Reference area'].replace('code.KG', np.nan)
-        df['Reference area'] = df['Reference area'].replace('Kyrgyzstan', np.nan)
     # For "Source details", we want to drop the whole column.
     if 'Source details' in df:
         del df['Source details']
@@ -37,6 +33,7 @@ def fix_data(df):
 dimension_map = {
     # Open SDG needs the unit column to be named specifically "Units".
     'UNIT_MEASURE': 'Units',
+    'REF_AREA|KG': ''
 }
 
 # Some dimensions we may want to drop.
