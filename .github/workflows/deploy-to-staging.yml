@@ -32,7 +32,7 @@ jobs:
         CLEAN: true
     - name: Rebuild site
       run: |
-        curl -X POST https://api.github.com/repos/LucyGwilliamAdmin/sdg-data-quick-start/dispatches \
+        curl -X POST https://api.github.com/repos/LucyGwilliamAdmin/sdg-site-quick-start/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.PAT_TOKEN}}" \
         --data '{"event_type": "rebuild-site"}'
