@@ -33,7 +33,7 @@ jobs:
     - name: Rebuild site
       run: |
         curl -H "Accept: application/vnd.github.everest-preview+json" \
-          -H "Authorization: token {{secrets.PAT_TOKEN}}" \
+          -H "Authorization: token ${{secrets.PAT_TOKEN}}" \
           --request POST \
           --data '{"event_type": "rebuild-site"}' \
           https://api.github.com/repos/LucyGwilliamAdmin/sdg-data-quick-start/dispatches
