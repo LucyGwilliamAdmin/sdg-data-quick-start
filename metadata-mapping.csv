@@ -1,0 +1,89 @@
+﻿Target,target
+Indicator code,indicator
+Global indicator,indicator_name
+Indicator available,national_indicator_available
+Indicator available description,national_indicator_description
+Tier,un_designated_tier
+Custodian agency,un_custodian_agency
+UN metadata link,goal_meta_link
+UN metadata link text,goal_meta_link_text
+Geographical coverage,national_geographical_coverage
+Units of measure,computation_units
+Definitions,computation_definitions
+Calculations,computation_calculations
+Other information,comments_limitations
+Reporting status,reporting_status
+Non-statistical status,data_non_statistical
+Footnote,data_footnote
+Graph type,graph_type
+Graph title,graph_title
+Catch all text,page_content
+Use geocodes for mapping (Y/N),data_show_map
+Indicator tags,data_keywords
+Source 1 organisation,source_organisation_1
+Source 1 periodicity,source_periodicity_1
+Source 1 earliest available data,source_earliest_available_1
+Source 1 geographical coverage,source_geographical_coverage_1
+Source 1 link to data source,source_url_1
+Source 1 link to data source text,source_url_text_1
+Source 1 release date (dd/mm/yyyy),source_release_date_1
+Source 1 next release (dd/mm/yyyy),source_next_release_1
+Source 1 statistical classification,source_statistical_classification_1
+Source 1 contact details,source_contact_1
+Source 1 other information,source_other_info_1
+Source 2 organisation,source_organisation_2
+Source 2 periodicity,source_periodicity_2
+Source 2 earliest available data,source_earliest_available_2
+Source 2 geographical coverage,source_geographical_coverage_2
+Source 2 link to data source,source_url_2
+Source 2 link to data source text,source_url_text_2
+Source 2 release date (dd/mm/yyyy),source_release_date_2
+Source 2 next release (dd/mm/yyyy),source_next_release_2
+Source 2 statistical classification,source_statistical_classification_2
+Source 2 contact details,source_contact_2
+Source 2 other information,source_other_info_2
+Source 3 organisation,source_organisation_3
+Source 3 periodicity,source_periodicity_3
+Source 3 earliest available data,source_earliest_available_3
+Source 3 geographical coverage,source_geographical_coverage_3
+Source 3 link to data source,source_url_3
+Source 3 link to data source text,source_url_text_3
+Source 3 release date (dd/mm/yyyy),source_release_date_3
+Source 3 next release (dd/mm/yyyy),source_next_release_3
+Source 3 statistical classification,source_statistical_classification_3
+Source 3 contact details,source_contact_3
+Source 3 other information,source_other_info_3
+Source 4 organisation,source_organisation_4
+Source 4 periodicity,source_periodicity_4
+Source 4 earliest available data,source_earliest_available_4
+Source 4 geographical coverage,source_geographical_coverage_4
+Source 4 link to data source,source_url_4
+Source 4 link to data source text,source_url_text_4
+Source 4 release date (dd/mm/yyyy),source_release_date_4
+Source 4 next release (dd/mm/yyyy),source_next_release_4
+Source 4 statistical classification,source_statistical_classification_4
+Source 4 contact details,source_contact_4
+Source 4 other information,source_other_info_4
+Source 5 organisation,source_organisation_5
+Source 5 periodicity,source_periodicity_5
+Source 5 earliest available data,source_earliest_available_5
+Source 5 geographical coverage,source_geographical_coverage_5
+Source 5 link to data source,source_url_5
+Source 5 link to data source text,source_url_text_5
+Source 5 release date (dd/mm/yyyy),source_release_date_5
+Source 5 next release (dd/mm/yyyy),source_next_release_5
+Source 5 statistical classification,source_statistical_classification_5
+Source 5 contact details,source_contact_5
+Source 5 other information,source_other_info_5
+Source 6 organisation,source_organisation_6
+Source 6 periodicity,source_periodicity_6
+Source 6 earliest available data,source_earliest_available_6
+Source 6 geographical coverage,source_geographical_coverage_6
+Source 6 link to data source,source_url_6
+Source 6 link to data source text,source_url_text_6
+Source 6 release date (dd/mm/yyyy),source_release_date_6
+Source 6 next release (dd/mm/yyyy),source_next_release_6
+Source 6 statistical classification,source_statistical_classification_6
+Source 6 contact details,source_contact_6
+Source 6 other information,source_other_info_6
+Indicator display order,indicator_sort_order
