@@ -87,6 +87,9 @@ meta_input = sdg.inputs.InputCSVMeta(path_pattern=meta_pattern)
 # add metadata to inputs
 inputs.append(meta_input)
 
+# Use the Prose.io file for the metadata schema.
+schema_path = os.path.join('_prose.yml')
+schema = sdg.schemas.SchemaInputOpenSdg(schema_path=schema_path)
 
 # Pull in translations.
 translations = [
@@ -100,4 +103,4 @@ translations = [
 ]
 
 # Create an "output" from these inputs and schema, for JSON for Open SDG.
-opensdg_output = sdg.outputs.OutputOpenSdg(inputs, output_folder='_site', translations=translations)
+opensdg_output = sdg.outputs.OutputOpenSdg(inputs, schema, output_folder='_site', translations=translations)
