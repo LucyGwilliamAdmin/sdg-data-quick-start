@@ -1,0 +1,118 @@
+﻿Target,"1.1 By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day"
+Indicator code,1.1.1
+Global indicator,"1.1.1 Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)"
+Indicator available,Proportion of population below the international poverty line
+Indicator available description,Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The 'international poverty line' is currently set at $1.90 a day at 2011 international prices.
+Tier,Tier I
+Custodian agency,"World Bank (WB), International Labour Organisation (ILO)"
+UN metadata link,https://unstats.un.org/sdgs/metadata/?Text=&Goal=1&Target=1.1
+UN metadata link text,United Nations Sustainable Development Goals Metadata (PDF 894 KB)
+Geographical coverage,UK
+Units of measure,Percentage (%)
+Definitions,The 'international poverty line' is currently set at $1.90 a day at 2011 international prices.
+Calculations,None
+Other information,
+Reporting status,complete
+Non-statistical status,N
+Footnote,"As differences in the cost of living across the world evolve, the international poverty line has to be
+periodically updated using new PPP price data to reflect these changes. The last change was in October 
+2015, when the World Bank adopted $1.90 as the international poverty line using the 2011 PPP. Prior to
+that, the 2008 update set the international poverty line at $1.25 using the 2005 PPP."
+Graph type,line
+Graph title,Proportion of population below the international poverty line
+Catch all text,“Poverty headcount ratio at $1.90 a day” figures from the World Bank Development Research Group. Underlying data provided by the ONS from the EU-Statistics on Income and Living Conditions survey (EU-SILC). For the main UK data series on low income households see the Households below average income (HBAI) statistics.
+Use geocodes for mapping (Y/N),N
+Indicator tags,
+Proxy indicator (Y/N),N
+Duplicate indicator codes,
+Units option (Y/N),N
+Headline data start year,2004
+Headline data end year,2015
+Data represents calendar year (Y/N) ,Y
+Data acquired by...,Ben Hillman
+Data QA'd by...,Mike Bolton
+Data uploaded by...,Lucy Gwilliam
+Metadata (dd/mm/yyyy),06/08/2019
+Quality assurance (dd/mm/yyyy),03/12/2018
+CSV (dd/mm/yyyy),07/05/2019
+Website (dd/mm/yyyy),03/12/2018
+Developed with topic expert (Y/N),N
+E-mail of topic expert(s),
+Signed off by topic expert (Y/N),
+Age (Y/N/NP/NA),N
+Sex (Y/N/NP/NA),N
+Income (Y/N/NP/NA),NA
+Geography (Y/N/NP/NA),N
+Geographical disaggregation (lowest level),Coverage Only
+Ethnicity (Y/N/NP/NA),N
+Disability status (Y/N/NP/NA),N
+Migration status (Y/N/NP/NA),N
+Other characteristic (Y/N),N
+Other characteristic information ,
+Source 1 organisation,World Bank
+Source 1 periodicity,Annual
+Source 1 earliest available data,2004
+Source 1 geographical coverage,UK
+Source 1 link to data source,https://data.worldbank.org/indicator/SI.POV.DDAY?locations=GB
+Source 1 link to data source text,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)
+Source 1 release date (dd/mm/yyyy),30/09/2018
+Source 1 next release (dd/mm/yyyy),TBA
+Source 1 statistical classification,Non-official
+Source 1 contact details,Research@WorldBank.org
+Source 1 other information,
+Source 2 organisation,
+Source 2 periodicity,
+Source 2 earliest available data,
+Source 2 geographical coverage,
+Source 2 link to data source,
+Source 2 link to data source text,
+Source 2 release date (dd/mm/yyyy),
+Source 2 next release (dd/mm/yyyy),
+Source 2 statistical classification,
+Source 2 contact details,
+Source 2 other information,
+Source 3 organisation,
+Source 3 periodicity,
+Source 3 earliest available data,
+Source 3 geographical coverage,
+Source 3 link to data source,
+Source 3 link to data source text,
+Source 3 release date (dd/mm/yyyy),
+Source 3 next release (dd/mm/yyyy),
+Source 3 statistical classification,
+Source 3 contact details,
+Source 3 other information,
+Source 4 organisation,
+Source 4 periodicity,
+Source 4 earliest available data,
+Source 4 geographical coverage,
+Source 4 link to data source,
+Source 4 link to data source text,
+Source 4 release date (dd/mm/yyyy),
+Source 4 next release (dd/mm/yyyy),
+Source 4 statistical classification,
+Source 4 contact details,
+Source 4 other information,
+Source 5 organisation,
+Source 5 periodicity,
+Source 5 earliest available data,
+Source 5 geographical coverage,
+Source 5 link to data source,
+Source 5 link to data source text,
+Source 5 release date (dd/mm/yyyy),
+Source 5 next release (dd/mm/yyyy),
+Source 5 statistical classification,
+Source 5 contact details,
+Source 5 other information,
+Source 6 organisation,
+Source 6 periodicity,
+Source 6 earliest available data,
+Source 6 geographical coverage,
+Source 6 link to data source,
+Source 6 link to data source text,
+Source 6 release date (dd/mm/yyyy),
+Source 6 next release (dd/mm/yyyy),
+Source 6 statistical classification,
+Source 6 contact details,
+Source 6 other information,
+Indicator display order,01-01-01
