@@ -73,9 +73,9 @@ for sdmx_file in sdmx_files:
             dimension_map=dimension_map,
             dsd=dsd,
             drop_dimensions=drop_dimensions,
-            indicator_id_map=indicator_id_map,
-            indicator_id_xpath=indicator_id_xpath,
-            indicator_name_xpath=indicator_name_xpath
+            #indicator_id_map=indicator_id_map,
+            #indicator_id_xpath=indicator_id_xpath,
+            #indicator_name_xpath=indicator_name_xpath
         )
     data_input.add_data_alteration(fix_data)
     inputs.append(data_input)
