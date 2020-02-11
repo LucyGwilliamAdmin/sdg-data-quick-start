@@ -88,7 +88,7 @@ meta_input = sdg.inputs.InputCSVMeta(path_pattern=meta_pattern)
 inputs.append(meta_input)
 
 meta_pattern = os.path.join('meta', '*-*.md')
-meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern)
+meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern, git=False)
 
 # add metadata to inputs
 inputs.append(meta_input)
