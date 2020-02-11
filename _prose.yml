@@ -56,6 +56,16 @@ prose:
             element: textarea
             label: "Definitions"
             scope: national
+      - name: "concepts"
+        field:
+            element: textarea
+            label: "Concepts"
+            scope: national
+      - name: "rationale_interpretation"
+        field:
+            element: textarea
+            label: "Rationale and interpretation"
+            scope: national 
       - name: "computation_methods"
         field:
             element: text
@@ -65,6 +75,31 @@ prose:
         field:
             element: text
             label: "Comments and limitations"
+            scope: national
+      - name: "quality_assurance"
+        field:
+            element: text
+            label: "Quality assurance"
+            scope: national
+      - name: "data_availability_gaps"
+        field:
+            element: text
+            label: "Data availability and gaps"
+            scope: national
+      - name: "disaggregation"
+        field:
+            element: text
+            label: "Disaggregation"
+            scope: national
+      - name: "international_comparability"
+        field:
+            element: text
+            label: "Comparability with international data/standards"
+            scope: national
+      - name: "references_documentation"
+        field:
+            element: text
+            label: "References and documentation"
             scope: national
       - name: "data_sources"
         field:
