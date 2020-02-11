@@ -46,9 +46,9 @@ dsd = os.path.join('SDG_DSD.KG.xml')
 # SDG DSD standard. It is typically there, but it's location is not predictable.
 # So, specify here the XPath query needed to find the indicator id inside each
 # series code. This is used to map series codes to indicator ids.
-indicator_id_xpath = ".//Name"
-indicator_name_xpath = ".//Name"
-indicator_id_map = csv2mapping('code_mapping.csv')
+#indicator_id_xpath = ".//Name"
+#indicator_name_xpath = ".//Name"
+#indicator_id_map = csv2mapping('code_mapping.csv')
 
 
 # Read all the files.
@@ -62,9 +62,9 @@ for sdmx_file in sdmx_files:
             import_translation_keys=True,
             dimension_map=dimension_map,
             dsd=dsd,
-            indicator_id_map=indicator_id_map,
-            indicator_id_xpath=indicator_id_xpath,
-            indicator_name_xpath=indicator_name_xpath
+            #indicator_id_map=indicator_id_map,
+            #indicator_id_xpath=indicator_id_xpath,
+            #indicator_name_xpath=indicator_name_xpath
         )
     elif get_file_type(sdmx_file) == 'GenericData':
         data_input = sdg.inputs.InputSdmxMl_Structure(
