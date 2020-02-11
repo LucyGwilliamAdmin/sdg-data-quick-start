@@ -71,16 +71,16 @@ prose:
             element: text
             label: "Source information"
             scope: national
-       - name: "data_collection"
-         field:
-             element: text
-             label: "Data collection methods"
-             scope: national
-       - name: "goal_meta_link"
-         field:
-             element: text
-             label: "Link to UN metadata"
-             scope: national
+      - name: "data_collection"
+        field:
+            element: text
+            label: "Data collection methods"
+            scope: national
+      - name: "goal_meta_link"
+        field:
+            element: text
+            label: "Link to UN metadata"
+            scope: national
       - name: "goal_meta_link_text"
         field:
             element: text
