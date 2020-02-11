@@ -92,27 +92,27 @@ prose:
         field:
             element: text
             label: "Organization"
-            scope: national
+            scope: data_reporter
       - name: "contact_name"
         field:
             element: text
             label: "Contact person(s)/focal point"
-            scope: national
+            scope: data_reporter
       - name: "contact_email"
         field:
             element: text
             label: "Contact person's email"
-            scope: national
+            scope: data_reporter
       - name: "contact_phone"
         field:
             element: text
             label: "Contact person's phone"
-            scope: national
+            scope: data_reporter
       - name: "organization_website"
         field:
             element: text
             label: "Organization website"
-            scope: national  
+            scope: data_reporter
        ######### Data Info #########
       - name: "reporting_status"
         field:
