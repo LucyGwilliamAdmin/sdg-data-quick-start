@@ -30,12 +30,12 @@ prose:
             element: text
             label: "Indicator"
             scope: indicator_information
-      - name: "target"
+      - name: "target_name"
         field:
             element: text
             label: "Target"
             scope: indicator_information
-      - name: "goal"
+      - name: "goal_name"
         field:
             element: text
             label: "Goal"
@@ -50,66 +50,79 @@ prose:
         field:
             element: text
             label: "Unit of measurement"
+            translation_key: metadata_fields.computation_units
             scope: national
       - name: "definitions"
         field:
             element: textarea
             label: "Definitions"
+            translation_key: metadata_fields.computation_definitions
             scope: national
       - name: "concepts"
         field:
             element: textarea
             label: "Concepts"
+            translation_key: custom.concepts
             scope: national
       - name: "rationale_interpretation"
         field:
             element: textarea
             label: "Rationale and interpretation"
+            translation_key: custom.rationale_and_interpretation
             scope: national 
       - name: "computation_methods"
         field:
             element: text
             label: "Method of computation"
+            translation_key: custom.method_of_computation
             scope: national
       - name: "comments_limitations"
         field:
             element: text
             label: "Comments and limitations"
+            translation_key: custom.comments_and_limitations
             scope: national
       - name: "quality_assurance"
         field:
             element: text
             label: "Quality assurance"
+            translation_key: custom.quality_assurance
             scope: national
       - name: "data_availability_gaps"
         field:
             element: text
             label: "Data availability and gaps"
+            translation_key: custom.data_availability_and_gaps
             scope: national
       - name: "disaggregation"
         field:
             element: text
             label: "Disaggregation"
+            translation_key: custom.disaggregation
             scope: national
       - name: "international_comparability"
         field:
             element: text
             label: "Comparability with international data/standards"
+            translation_key: custom.comparability_with_international_data_standards
             scope: national
       - name: "references_documentation"
         field:
             element: text
             label: "References and documentation"
+            translation_key: custom.references_and_documentation
             scope: national
       - name: "data_sources"
         field:
             element: text
-            label: "Source information"
+            label: "Data sources"
+            translation_key: custom.data_sources
             scope: national
       - name: "data_collection"
         field:
             element: text
             label: "Data collection methods"
+            translation_key: custom.data_collection_methods
             scope: national
       - name: "goal_meta_link"
         field:
@@ -127,26 +140,31 @@ prose:
         field:
             element: text
             label: "Organization"
+            translation_key: custom.organization
             scope: data_reporter
       - name: "contact_name"
         field:
             element: text
             label: "Contact person(s)/focal point"
+            translation_key: custom.contact_person
             scope: data_reporter
       - name: "contact_email"
         field:
             element: text
             label: "Contact person's email"
+            translation_key: custom.contact_person_email
             scope: data_reporter
       - name: "contact_phone"
         field:
             element: text
             label: "Contact person's phone"
+            translation_key: custom.contact_person_phone
             scope: data_reporter
       - name: "organization_website"
         field:
             element: text
             label: "Organization website"
+            translation_key: custom.organization_website
             scope: data_reporter
        ######### Data Info #########
       - name: "reporting_status"
