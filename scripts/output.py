@@ -81,14 +81,12 @@ for sdmx_file in sdmx_files:
     inputs.append(data_input)
 
 # Use .csv and .md files for metadata
-meta_pattern = os.path.join('meta', '*-*.md')
-meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern, git=False)
-
-# add metadata to inputs
-inputs.append(meta_input)
 meta_pattern = os.path.join('meta', '*-*.csv')
 meta_input = sdg.inputs.InputCsvMeta(path_pattern=meta_pattern, metadata_mapping="metadata-mapping.csv")
 
+inputs.append(meta_input)
+meta_pattern = os.path.join('meta', '*-*.md')
+meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern, git=False)
 
 # add metadata to inputs
 inputs.append(meta_input)
