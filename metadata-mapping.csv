@@ -1,5 +1,5 @@
-﻿Цель,goal
-Задача,target
+Цель,goal_name
+Задача,target_name
 Индикатор,indicator_name
 Организация,organization_name
 Контактное лицо (лица) / Координатор,contact_name
@@ -9,7 +9,7 @@
 Определение,definitions
 Основные понятия:,concepts
 Обоснование и толкование,rationale_interpretation
-Обоснование и толкование,data_sources
+Источники данных,data_sources
 Методы сбора данных,data_collection
 Метод расчета:,computation_methods
 Комментарий и ограничения:,comments_limitations
