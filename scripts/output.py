@@ -82,7 +82,7 @@ for sdmx_file in sdmx_files:
 
 # Use .csv and .md files for metadata
 meta_pattern = os.path.join('meta', '*-*.csv')
-meta_input = sdg.inputs.InputCSVMeta(path_pattern=meta_pattern, metadata_mapping="metadata-mapping.csv")
+meta_input = sdg.inputs.InputCsvMeta(path_pattern=meta_pattern, metadata_mapping="metadata-mapping.csv")
 
 # add metadata to inputs
 inputs.append(meta_input)
