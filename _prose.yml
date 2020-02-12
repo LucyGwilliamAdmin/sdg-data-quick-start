@@ -34,11 +34,13 @@ prose:
         field:
             element: text
             label: "Target"
+            translation_key: metadata_fields.target
             scope: indicator_information
       - name: "goal_name"
         field:
             element: text
             label: "Goal"
+            translation_key: custom.goal
             scope: indicator_information
       ######### National Metadata #########
       - name: "national_geographical_coverage"
