@@ -25,10 +25,11 @@ prose:
             label: "Layout"
             scope: page
       ######### Indicator information #########
-      - name: "indicator_name"
+      - name: "indicator_name1"
         field:
             element: text
             label: "Indicator"
+            translation_key: metadata_fields.indicator_name
             scope: indicator_information
       - name: "target_name"
         field:
