@@ -82,14 +82,14 @@ for sdmx_file in sdmx_files:
 
 # Use .csv and .md files for metadata
 meta_pattern = os.path.join('meta', '*-*.csv')
-meta_input = sdg.inputs.InputCsvMeta(path_pattern=meta_pattern, metadata_mapping="metadata-mapping.csv")
+csv_meta_input = sdg.inputs.InputCsvMeta(path_pattern=meta_pattern, metadata_mapping="metadata-mapping.csv")
 
-inputs.append(meta_input)
+inputs.append(csv_meta_input)
 meta_pattern = os.path.join('meta', '*-*.md')
-meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern, git=False)
+md_meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern, git=False)
 
 # add metadata to inputs
-inputs.append(meta_input)
+inputs.append(md_meta_input)
 
 # Use the Prose.io file for the metadata schema.
 schema_path = os.path.join('_prose.yml')
