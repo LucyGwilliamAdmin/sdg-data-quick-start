@@ -84,16 +84,19 @@ for sdmx_file in sdmx_files:
 meta_pattern = os.path.join('meta', '*-*.csv')
 csv_meta_input = sdg.inputs.InputCsvMeta(path_pattern=meta_pattern, metadata_mapping="metadata-mapping.csv")
 
-# Use .csv and .md files for metadata
-meta_pattern = os.path.join('meta', 'Metadata *.*.xlsx')
-excel_meta_input = sdg.inputs.InputExcelMeta(path_pattern=meta_pattern, metadata_mapping="metadata-mapping.csv")
-
 inputs.append(csv_meta_input)
 meta_pattern = os.path.join('meta', '*-*.md')
 md_meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern, git=False)
 
 # add metadata to inputs
 inputs.append(md_meta_input)
+
+# Use .csv and .md files for metadata
+meta_pattern = os.path.join('meta', 'Metadata *.*.xlsx')
+excel_meta_input = sdg.inputs.InputExcelMeta(path_pattern=meta_pattern, metadata_mapping="metadata-mapping.csv")
+
+# add metadata to inputs
+inputs.append(excel_meta_input)
 
 # Use the Prose.io file for the metadata schema.
 schema_path = os.path.join('_prose.yml')
