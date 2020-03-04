@@ -19,14 +19,14 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2018,Bishkek (city),,,,,,5.9
 2014,Osh (city),,,,,,12.1
 2018,Osh (city),,,,,,10.9
-2014,,Modeled,,,,,13.8
-2018,,Modeled,,,,,12.5
+2014,,Male,,,,,13.8
+2018,,Male,,,,,12.5
 2014,,Female,,,,,12.0
 2018,,Female,,,,,10.9
 2014,,,,Urban,,,11.8
 2018,,,,Urban,,,8.8
-2014,,,,Regional,,,13.4
-2018,,,,Regional,,,13.1
+2014,,,,Rural,,,13.4
+2018,,,,Rural,,,13.1
 2014,,,0 to 5 months old,,,,5.3
 2018,,,0 to 5 months old,,,,5.4
 2014,,,6 to 11 months old,,,,7.2

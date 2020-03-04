@@ -29,12 +29,12 @@ Year,Reference area,Sex,Time series-level footnotes,Value
 2015,Naryn,,,1.1
 2016,Naryn,,,1.4
 2017,Naryn,,,2.3
-2010,Osh,,code.Until 2013 - including Osh.,6.3
-2013,Osh,,code.Until 2013 - including Osh.,2.7
-2014,Osh,,code.Until 2013 - including Osh.,2.8
-2015,Osh,,code.Until 2013 - including Osh.,3.4
-2016,Osh,,code.Until 2013 - including Osh.,3.3
-2017,Osh,,code.Until 2013 - including Osh.,4.7
+2010,Osh,,Until 2013 - including Osh.,6.3
+2013,Osh,,Until 2013 - including Osh.,2.7
+2014,Osh,,Until 2013 - including Osh.,2.8
+2015,Osh,,Until 2013 - including Osh.,3.4
+2016,Osh,,Until 2013 - including Osh.,3.3
+2017,Osh,,Until 2013 - including Osh.,4.7
 2010,Talas,,,2.6
 2013,Talas,,,3.0
 2014,Talas,,,2.2
@@ -65,9 +65,9 @@ Year,Reference area,Sex,Time series-level footnotes,Value
 2015,,Female,,8.4
 2016,,Female,,9.1
 2017,,Female,,11.3
-2010,,Modeled,,6.7
-2013,,Modeled,,5.7
-2014,,Modeled,,5.6
-2015,,Modeled,,6.7
-2016,,Modeled,,6.7
-2017,,Modeled,,9.3
+2010,,Male,,6.7
+2013,,Male,,5.7
+2014,,Male,,5.6
+2015,,Male,,6.7
+2016,,Male,,6.7
+2017,,Male,,9.3

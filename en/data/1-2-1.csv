@@ -11,18 +11,18 @@ Year,Reference area,Sex,Value
 2016,,,254
 2017,,,256
 2018,,,224
-2007,,Modeled,347
-2008,,Modeled,314
-2009,,Modeled,307
-2010,,Modeled,327
-2011,,Modeled,361
-2012,,Modeled,372
-2013,,Modeled,365
-2014,,Modeled,297
-2015,,Modeled,315
-2016,,Modeled,250
-2017,,Modeled,250
-2018,,Modeled,225
+2007,,Male,347
+2008,,Male,314
+2009,,Male,307
+2010,,Male,327
+2011,,Male,361
+2012,,Male,372
+2013,,Male,365
+2014,,Male,297
+2015,,Male,315
+2016,,Male,250
+2017,,Male,250
+2018,,Male,225
 2007,,Female,354
 2008,,Female,321
 2009,,Female,329
@@ -47,18 +47,18 @@ Year,Reference area,Sex,Value
 2016,Batken,,370
 2017,Batken,,405
 2018,Batken,,338
-2007,Batken,Modeled,413
-2008,Batken,Modeled,224
-2009,Batken,Modeled,313
-2010,Batken,Modeled,319
-2011,Batken,Modeled,342
-2012,Batken,Modeled,346
-2013,Batken,Modeled,536
-2014,Batken,Modeled,390
-2015,Batken,Modeled,409
-2016,Batken,Modeled,361
-2017,Batken,Modeled,396
-2018,Batken,Modeled,337
+2007,Batken,Male,413
+2008,Batken,Male,224
+2009,Batken,Male,313
+2010,Batken,Male,319
+2011,Batken,Male,342
+2012,Batken,Male,346
+2013,Batken,Male,536
+2014,Batken,Male,390
+2015,Batken,Male,409
+2016,Batken,Male,361
+2017,Batken,Male,396
+2018,Batken,Male,337
 2007,Batken,Female,394
 2008,Batken,Female,188
 2009,Batken,Female,317
@@ -83,18 +83,18 @@ Year,Reference area,Sex,Value
 2016,Jalal-Abad,,322
 2017,Jalal-Abad,,326
 2018,Jalal-Abad,,322
-2007,Jalal-Abad,Modeled,516
-2008,Jalal-Abad,Modeled,379
-2009,Jalal-Abad,Modeled,335
-2010,Jalal-Abad,Modeled,437
-2011,Jalal-Abad,Modeled,437
-2012,Jalal-Abad,Modeled,553
-2013,Jalal-Abad,Modeled,474
-2014,Jalal-Abad,Modeled,470
-2015,Jalal-Abad,Modeled,452
-2016,Jalal-Abad,Modeled,331
-2017,Jalal-Abad,Modeled,340
-2018,Jalal-Abad,Modeled,334
+2007,Jalal-Abad,Male,516
+2008,Jalal-Abad,Male,379
+2009,Jalal-Abad,Male,335
+2010,Jalal-Abad,Male,437
+2011,Jalal-Abad,Male,437
+2012,Jalal-Abad,Male,553
+2013,Jalal-Abad,Male,474
+2014,Jalal-Abad,Male,470
+2015,Jalal-Abad,Male,452
+2016,Jalal-Abad,Male,331
+2017,Jalal-Abad,Male,340
+2018,Jalal-Abad,Male,334
 2007,Jalal-Abad,Female,546
 2008,Jalal-Abad,Female,424
 2009,Jalal-Abad,Female,405
@@ -119,18 +119,18 @@ Year,Reference area,Sex,Value
 2016,Issyk-Kul,,247
 2017,Issyk-Kul,,242
 2018,Issyk-Kul,,215
-2007,Issyk-Kul,Modeled,387
-2008,Issyk-Kul,Modeled,522
-2009,Issyk-Kul,Modeled,479
-2010,Issyk-Kul,Modeled,369
-2011,Issyk-Kul,Modeled,311
-2012,Issyk-Kul,Modeled,282
-2013,Issyk-Kul,Modeled,404
-2014,Issyk-Kul,Modeled,264
-2015,Issyk-Kul,Modeled,291
-2016,Issyk-Kul,Modeled,247
-2017,Issyk-Kul,Modeled,243
-2018,Issyk-Kul,Modeled,215
+2007,Issyk-Kul,Male,387
+2008,Issyk-Kul,Male,522
+2009,Issyk-Kul,Male,479
+2010,Issyk-Kul,Male,369
+2011,Issyk-Kul,Male,311
+2012,Issyk-Kul,Male,282
+2013,Issyk-Kul,Male,404
+2014,Issyk-Kul,Male,264
+2015,Issyk-Kul,Male,291
+2016,Issyk-Kul,Male,247
+2017,Issyk-Kul,Male,243
+2018,Issyk-Kul,Male,215
 2007,Issyk-Kul,Female,385
 2008,Issyk-Kul,Female,523
 2009,Issyk-Kul,Female,445
@@ -155,18 +155,18 @@ Year,Reference area,Sex,Value
 2016,Naryn,,378
 2017,Naryn,,292
 2018,Naryn,,306
-2007,Naryn,Modeled,469
-2008,Naryn,Modeled,427
-2009,Naryn,Modeled,448
-2010,Naryn,Modeled,534
-2011,Naryn,Modeled,483
-2012,Naryn,Modeled,377
-2013,Naryn,Modeled,448
-2014,Naryn,Modeled,324
-2015,Naryn,Modeled,395
-2016,Naryn,Modeled,396
-2017,Naryn,Modeled,312
-2018,Naryn,Modeled,316
+2007,Naryn,Male,469
+2008,Naryn,Male,427
+2009,Naryn,Male,448
+2010,Naryn,Male,534
+2011,Naryn,Male,483
+2012,Naryn,Male,377
+2013,Naryn,Male,448
+2014,Naryn,Male,324
+2015,Naryn,Male,395
+2016,Naryn,Male,396
+2017,Naryn,Male,312
+2018,Naryn,Male,316
 2007,Naryn,Female,437
 2008,Naryn,Female,428
 2009,Naryn,Female,435
@@ -191,18 +191,18 @@ Year,Reference area,Sex,Value
 2016,Osh,,220
 2017,Osh,,143
 2018,Osh,,148
-2007,Osh,Modeled,487
-2008,Osh,Modeled,379
-2009,Osh,Modeled,383
-2010,Osh,Modeled,406
-2011,Osh,Modeled,442
-2012,Osh,Modeled,506
-2013,Osh,Modeled,427
-2014,Osh,Modeled,305
-2015,Osh,Modeled,284
-2016,Osh,Modeled,218
-2017,Osh,Modeled,129
-2018,Osh,Modeled,153
+2007,Osh,Male,487
+2008,Osh,Male,379
+2009,Osh,Male,383
+2010,Osh,Male,406
+2011,Osh,Male,442
+2012,Osh,Male,506
+2013,Osh,Male,427
+2014,Osh,Male,305
+2015,Osh,Male,284
+2016,Osh,Male,218
+2017,Osh,Male,129
+2018,Osh,Male,153
 2007,Osh,Female,443
 2008,Osh,Female,369
 2009,Osh,Female,382
@@ -227,18 +227,18 @@ Year,Reference area,Sex,Value
 2016,Talas,,181
 2017,Talas,,207
 2018,Talas,,221
-2007,Talas,Modeled,355
-2008,Talas,Modeled,454
-2009,Talas,Modeled,357
-2010,Talas,Modeled,443
-2011,Talas,Modeled,514
-2012,Talas,Modeled,422
-2013,Talas,Modeled,233
-2014,Talas,Modeled,197
-2015,Talas,Modeled,226
-2016,Talas,Modeled,191
-2017,Talas,Modeled,214
-2018,Talas,Modeled,238
+2007,Talas,Male,355
+2008,Talas,Male,454
+2009,Talas,Male,357
+2010,Talas,Male,443
+2011,Talas,Male,514
+2012,Talas,Male,422
+2013,Talas,Male,233
+2014,Talas,Male,197
+2015,Talas,Male,226
+2016,Talas,Male,191
+2017,Talas,Male,214
+2018,Talas,Male,238
 2007,Talas,Female,349
 2008,Talas,Female,400
 2009,Talas,Female,298
@@ -263,18 +263,18 @@ Year,Reference area,Sex,Value
 2016,Chui,,303
 2017,Chui,,333
 2018,Chui,,156
-2007,Chui,Modeled,133
-2008,Chui,Modeled,149
-2009,Chui,Modeled,206
-2010,Chui,Modeled,218
-2011,Chui,Modeled,316
-2012,Chui,Modeled,163
-2013,Chui,Modeled,235
-2014,Chui,Modeled,208
-2015,Chui,Modeled,242
-2016,Chui,Modeled,298
-2017,Chui,Modeled,323
-2018,Chui,Modeled,155
+2007,Chui,Male,133
+2008,Chui,Male,149
+2009,Chui,Male,206
+2010,Chui,Male,218
+2011,Chui,Male,316
+2012,Chui,Male,163
+2013,Chui,Male,235
+2014,Chui,Male,208
+2015,Chui,Male,242
+2016,Chui,Male,298
+2017,Chui,Male,323
+2018,Chui,Male,155
 2007,Chui,Female,168
 2008,Chui,Female,167
 2009,Chui,Female,219
@@ -299,18 +299,18 @@ Year,Reference area,Sex,Value
 2016,Bishkek (city),,98
 2017,Bishkek (city),,159
 2018,Bishkek (city),,154
-2007,Bishkek (city),Modeled,50
-2008,Bishkek (city),Modeled,146
-2009,Bishkek (city),Modeled,127
-2010,Bishkek (city),Modeled,73
-2011,Bishkek (city),Modeled,171
-2012,Bishkek (city),Modeled,199
-2013,Bishkek (city),Modeled,184
-2014,Bishkek (city),Modeled,158
-2015,Bishkek (city),Modeled,222
-2016,Bishkek (city),Modeled,89
-2017,Bishkek (city),Modeled,143
-2018,Bishkek (city),Modeled,147
+2007,Bishkek (city),Male,50
+2008,Bishkek (city),Male,146
+2009,Bishkek (city),Male,127
+2010,Bishkek (city),Male,73
+2011,Bishkek (city),Male,171
+2012,Bishkek (city),Male,199
+2013,Bishkek (city),Male,184
+2014,Bishkek (city),Male,158
+2015,Bishkek (city),Male,222
+2016,Bishkek (city),Male,89
+2017,Bishkek (city),Male,143
+2018,Bishkek (city),Male,147
 2007,Bishkek (city),Female,50
 2008,Bishkek (city),Female,160
 2009,Bishkek (city),Female,140
@@ -335,18 +335,18 @@ Year,Reference area,Sex,Value
 2016,Osh (city),,246
 2017,Osh (city),,335
 2018,Osh (city),,355
-2007,Osh (city),Modeled,0
-2008,Osh (city),Modeled,0
-2009,Osh (city),Modeled,0
-2010,Osh (city),Modeled,0
-2011,Osh (city),Modeled,0
-2012,Osh (city),Modeled,0
-2013,Osh (city),Modeled,402
-2014,Osh (city),Modeled,320
-2015,Osh (city),Modeled,358
-2016,Osh (city),Modeled,232
-2017,Osh (city),Modeled,309
-2018,Osh (city),Modeled,339
+2007,Osh (city),Male,0
+2008,Osh (city),Male,0
+2009,Osh (city),Male,0
+2010,Osh (city),Male,0
+2011,Osh (city),Male,0
+2012,Osh (city),Male,0
+2013,Osh (city),Male,402
+2014,Osh (city),Male,320
+2015,Osh (city),Male,358
+2016,Osh (city),Male,232
+2017,Osh (city),Male,309
+2018,Osh (city),Male,339
 2007,Osh (city),Female,0
 2008,Osh (city),Female,0
 2009,Osh (city),Female,0
