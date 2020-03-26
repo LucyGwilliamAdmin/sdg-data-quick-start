@@ -1,4 +1,4 @@
-Year,concept.REF_AREA,concept.AGE,concept.URBANISATION,concept.INCOME_WEALTH_QUANTILE,concept.EDUCATION_LEV,Value
+Year,Территория,Возраст,Тип местности,Уровень дохода или квантиль благосостояния,Уровень образования,Value
 2018,,,,,,674.0
 2018,Баткен,,,,,486.0
 2018,Джалал-Абадская область,,,,,562.0
