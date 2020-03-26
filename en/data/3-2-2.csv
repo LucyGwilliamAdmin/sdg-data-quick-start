@@ -10,7 +10,7 @@ Year,Reference area,Value
 2015,,13.997993
 2016,,12.670713000000001
 2017,,11.795339
-2018,,13.0
+2018,,12.0
 2007,Batken,20.020582
 2008,Batken,20.371252
 2009,Batken,17.752959
@@ -22,7 +22,7 @@ Year,Reference area,Value
 2015,Batken,11.21983
 2016,Batken,10.61082
 2017,Batken,10.611457000000001
-2018,Batken,6.0
+2018,Batken,9.3
 2007,Jalal-Abad,17.491993
 2008,Jalal-Abad,13.828495000000002
 2009,Jalal-Abad,13.109231
@@ -34,7 +34,7 @@ Year,Reference area,Value
 2015,Jalal-Abad,12.659814
 2016,Jalal-Abad,11.493097
 2017,Jalal-Abad,9.918574000000001
-2018,Jalal-Abad,29.0
+2018,Jalal-Abad,10.2
 2007,Issyk-Kul,17.433752
 2008,Issyk-Kul,18.44146
 2009,Issyk-Kul,16.389014000000003
@@ -46,7 +46,7 @@ Year,Reference area,Value
 2015,Issyk-Kul,12.182109
 2016,Issyk-Kul,8.420139
 2017,Issyk-Kul,9.423503
-2018,Issyk-Kul,17.0
+2018,Issyk-Kul,8.5
 2007,Naryn,17.912773
 2008,Naryn,16.943931
 2009,Naryn,14.464366
@@ -58,7 +58,7 @@ Year,Reference area,Value
 2015,Naryn,8.720930000000001
 2016,Naryn,11.227763000000001
 2017,Naryn,9.984399
-2018,Naryn,7.0
+2018,Naryn,8.2
 2007,Osh,12.608002
 2008,Osh,13.417951
 2009,Osh,10.630954
@@ -70,7 +70,7 @@ Year,Reference area,Value
 2015,Osh,4.312545
 2016,Osh,3.485959
 2017,Osh,3.098263
-2018,Osh,15.0
+2018,Osh,3.4
 2007,Talas,28.86102
 2008,Talas,24.548244
 2009,Talas,25.589948
@@ -82,7 +82,7 @@ Year,Reference area,Value
 2015,Talas,12.700333
 2016,Talas,12.336039999999999
 2017,Talas,12.267905
-2018,Talas,
+2018,Talas,16.7
 2007,Chui,21.918468
 2008,Chui,19.965577
 2009,Chui,18.539076
@@ -94,7 +94,7 @@ Year,Reference area,Value
 2015,Chui,12.614628
 2016,Chui,10.407594
 2017,Chui,6.655345
-2018,Chui,5.0
+2018,Chui,6.8
 2007,Bishkek (city),31.519613
 2008,Bishkek (city),29.87456
 2009,Bishkek (city),27.261589
@@ -106,7 +106,7 @@ Year,Reference area,Value
 2015,Bishkek (city),23.028610999999998
 2016,Bishkek (city),22.846557999999998
 2017,Bishkek (city),23.162225
-2018,Bishkek (city),6.0
+2018,Bishkek (city),22.9
 2007,Osh (city),49.506943
 2008,Osh (city),42.992096000000004
 2009,Osh (city),49.784765
@@ -118,4 +118,4 @@ Year,Reference area,Value
 2015,Osh (city),61.963775
 2016,Osh (city),50.222162
 2017,Osh (city),46.864858
-2018,Osh (city),16.0
+2018,Osh (city),34.2
