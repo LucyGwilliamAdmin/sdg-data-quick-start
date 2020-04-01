@@ -24,6 +24,7 @@ inputs:
     dimension_map:
       UNIT_MEASURE: 'Units'
       REF_AREA|KG: ''
+      SERIES: 'Series'
     drop_dimensions: SOURCE_DETAIL
     dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
     import_translation_keys: true
