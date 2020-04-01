@@ -1,1 +1,1 @@
-{"From":["Education level","Age"],"To":["Sex","Education level"]}
+{"From":["concept.EDUCATION_LEV","concept.AGE"],"To":["concept.SEX","concept.EDUCATION_LEV"]}

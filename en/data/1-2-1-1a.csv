@@ -1,149 +1,149 @@
-Year,Sex,Age,Degree of urbanisation,Economic activity,Value
+Year,concept.SEX,concept.AGE,concept.URBANISATION,concept.ACTIVITY,Value
 2015,,,,,23.0
 2016,,,,,18.3
 2017,,,,,18.0
 2018,,,,,15.5
-2015,Male,,,,24.6
-2016,Male,,,,19.7
-2017,Male,,,,20.0
-2018,Male,,,,16.6
-2015,Female,,,,20.6
-2016,Female,,,,16.0
-2017,Female,,,,14.8
-2018,Female,,,,13.6
-2015,,15 to 19 years old,,,23.7
-2016,,15 to 19 years old,,,19.0
-2017,,15 to 19 years old,,,14.7
-2018,,15 to 19 years old,,,12.6
-2015,,20 to 24 years old,,,19.9
-2016,,20 to 24 years old,,,18.0
-2017,,20 to 24 years old,,,13.9
-2018,,20 to 24 years old,,,10.7
-2015,,25 to 29 years old,,,20.9
-2016,,25 to 29 years old,,,17.5
-2017,,25 to 29 years old,,,18.5
-2018,,25 to 29 years old,,,15.8
-2015,,30 to 34 years old,,,31.9
-2016,,30 to 34 years old,,,22.5
-2017,,30 to 34 years old,,,22.9
-2018,,30 to 34 years old,,,18.4
-2015,,35 to 39 years old,,,33.4
-2016,,35 to 39 years old,,,27.6
-2017,,35 to 39 years old,,,26.4
-2018,,35 to 39 years old,,,23.4
-2015,,40 to 44 years old,,,27.5
-2016,,40 to 44 years old,,,20.1
-2017,,40 to 44 years old,,,21.8
-2018,,40 to 44 years old,,,18.5
-2015,,45 to 49 years old,,,20.3
-2016,,45 to 49 years old,,,15.1
-2017,,45 to 49 years old,,,15.3
-2018,,45 to 49 years old,,,13.5
-2015,,50 to 54 years old,,,12.4
-2016,,50 to 54 years old,,,11.3
-2017,,50 to 54 years old,,,10.8
-2018,,50 to 54 years old,,,12.5
-2015,,55 to 59 years old,,,11.4
-2016,,55 to 59 years old,,,8.4
-2017,,55 to 59 years old,,,10.3
-2018,,55 to 59 years old,,,9.5
-2015,,60 to 64 years old,,,9.4
-2016,,60 to 64 years old,,,14.2
-2017,,60 to 64 years old,,,14.3
-2018,,60 to 64 years old,,,12.0
-2015,,65 to 69 years old,,,5.3
-2016,,65 to 69 years old,,,7.6
-2017,,65 to 69 years old,,,6.2
-2018,,65 to 69 years old,,,4.8
-2015,,70 years old and over,,,4.3
-2016,,70 years old and over,,,13.9
-2017,,70 years old and over,,,10.6
-2018,,70 years old and over,,,3.7
-2015,,,Urban,,18.1
-2016,,,Urban,,11.8
-2017,,,Urban,,13.2
-2018,,,Urban,,13.0
-2015,,,Rural,,25.5
-2016,,,Rural,,21.8
-2017,,,Rural,,20.7
-2018,,,Rural,,16.9
-2015,,,,"Agriculture, forestry and fishing",29.1
-2016,,,,"Agriculture, forestry and fishing",24.5
-2017,,,,"Agriculture, forestry and fishing",22.6
-2018,,,,"Agriculture, forestry and fishing",21.9
-2015,,,,Mining and quarrying,25.7
-2016,,,,Mining and quarrying,17.4
-2017,,,,Mining and quarrying,43.5
-2018,,,,Mining and quarrying,46.5
-2015,,,,Manufacturing,20.7
-2016,,,,Manufacturing,16.8
-2017,,,,Manufacturing,19.3
-2018,,,,Manufacturing,13.0
-2015,,,,"Electricity, gas, steam and air conditioning supply",10.4
-2016,,,,"Electricity, gas, steam and air conditioning supply",6.7
-2017,,,,"Electricity, gas, steam and air conditioning supply",16.8
-2018,,,,"Electricity, gas, steam and air conditioning supply",9.9
-2015,,,,"Water supply; sewerage, waste management and remediation activities",8.8
-2016,,,,"Water supply; sewerage, waste management and remediation activities",11.0
-2017,,,,"Water supply; sewerage, waste management and remediation activities",16.9
-2018,,,,"Water supply; sewerage, waste management and remediation activities",14.4
-2015,,,,Construction,30.5
-2016,,,,Construction,21.9
-2017,,,,Construction,25.2
-2018,,,,Construction,18.3
-2015,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,17.0
-2016,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,13.9
-2017,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,12.7
-2018,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,12.4
-2015,,,,Transportation and storage,22.3
-2016,,,,Transportation and storage,20.9
-2017,,,,Transportation and storage,18.0
-2018,,,,Transportation and storage,14.2
-2015,,,,Accommodation and food service activities,18.2
-2016,,,,Accommodation and food service activities,14.0
-2017,,,,Accommodation and food service activities,10.5
-2018,,,,Accommodation and food service activities,10.1
-2015,,,,Information and communication,23.4
-2016,,,,Information and communication,12.6
-2017,,,,Information and communication,7.2
-2018,,,,Information and communication,7.4
-2015,,,,Financial and insurance activities,10.5
-2016,,,,Financial and insurance activities,7.0
-2017,,,,Financial and insurance activities,11.9
-2018,,,,Financial and insurance activities,10.7
-2015,,,,Real estate activities,3.9
-2016,,,,Real estate activities,1.6
-2017,,,,Real estate activities,1.9
-2015,,,,"Professional, scientific and technical activities",19.0
-2016,,,,"Professional, scientific and technical activities",6.4
-2017,,,,"Professional, scientific and technical activities",10.7
-2018,,,,"Professional, scientific and technical activities",6.2
-2015,,,,Administrative and support service activities,13.6
-2016,,,,Administrative and support service activities,9.7
-2017,,,,Administrative and support service activities,17.4
-2018,,,,Administrative and support service activities,10.9
-2015,,,,Public administration and defence; compulsory social security,16.9
-2016,,,,Public administration and defence; compulsory social security,9.9
-2017,,,,Public administration and defence; compulsory social security,10.1
-2018,,,,Public administration and defence; compulsory social security,6.6
-2015,,,,Education,20.4
-2016,,,,Education,16.1
-2017,,,,Education,18.6
-2018,,,,Education,18.9
-2015,,,,Human health and social work activities,13.3
-2016,,,,Human health and social work activities,11.6
-2017,,,,Human health and social work activities,15.2
-2018,,,,Human health and social work activities,12.0
-2015,,,,"Arts, entertainment and recreation",24.9
-2016,,,,"Arts, entertainment and recreation",22.9
-2017,,,,"Arts, entertainment and recreation",13.5
-2018,,,,"Arts, entertainment and recreation",10.0
-2015,,,,Other service activities,14.3
-2016,,,,Other service activities,10.5
-2017,,,,Other service activities,9.7
-2018,,,,Other service activities,9.1
-2015,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,24.0
-2016,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,46.9
-2017,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,31.5
-2018,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,23.4
-2017,,,,Activities of extraterritorial organisations and bodies,15.6
+2015,CL_SEX.M,,,,24.6
+2016,CL_SEX.M,,,,19.7
+2017,CL_SEX.M,,,,20.0
+2018,CL_SEX.M,,,,16.6
+2015,CL_SEX.F,,,,20.6
+2016,CL_SEX.F,,,,16.0
+2017,CL_SEX.F,,,,14.8
+2018,CL_SEX.F,,,,13.6
+2015,,CL_AGE.Y15T19,,,23.7
+2016,,CL_AGE.Y15T19,,,19.0
+2017,,CL_AGE.Y15T19,,,14.7
+2018,,CL_AGE.Y15T19,,,12.6
+2015,,CL_AGE.Y20T24,,,19.9
+2016,,CL_AGE.Y20T24,,,18.0
+2017,,CL_AGE.Y20T24,,,13.9
+2018,,CL_AGE.Y20T24,,,10.7
+2015,,CL_AGE.Y25T29,,,20.9
+2016,,CL_AGE.Y25T29,,,17.5
+2017,,CL_AGE.Y25T29,,,18.5
+2018,,CL_AGE.Y25T29,,,15.8
+2015,,CL_AGE.Y30T34,,,31.9
+2016,,CL_AGE.Y30T34,,,22.5
+2017,,CL_AGE.Y30T34,,,22.9
+2018,,CL_AGE.Y30T34,,,18.4
+2015,,CL_AGE.Y35T39,,,33.4
+2016,,CL_AGE.Y35T39,,,27.6
+2017,,CL_AGE.Y35T39,,,26.4
+2018,,CL_AGE.Y35T39,,,23.4
+2015,,CL_AGE.Y40T44,,,27.5
+2016,,CL_AGE.Y40T44,,,20.1
+2017,,CL_AGE.Y40T44,,,21.8
+2018,,CL_AGE.Y40T44,,,18.5
+2015,,CL_AGE.Y45T49,,,20.3
+2016,,CL_AGE.Y45T49,,,15.1
+2017,,CL_AGE.Y45T49,,,15.3
+2018,,CL_AGE.Y45T49,,,13.5
+2015,,CL_AGE.Y50T54,,,12.4
+2016,,CL_AGE.Y50T54,,,11.3
+2017,,CL_AGE.Y50T54,,,10.8
+2018,,CL_AGE.Y50T54,,,12.5
+2015,,CL_AGE.Y55T59,,,11.4
+2016,,CL_AGE.Y55T59,,,8.4
+2017,,CL_AGE.Y55T59,,,10.3
+2018,,CL_AGE.Y55T59,,,9.5
+2015,,CL_AGE.Y60T64,,,9.4
+2016,,CL_AGE.Y60T64,,,14.2
+2017,,CL_AGE.Y60T64,,,14.3
+2018,,CL_AGE.Y60T64,,,12.0
+2015,,CL_AGE.Y65T69,,,5.3
+2016,,CL_AGE.Y65T69,,,7.6
+2017,,CL_AGE.Y65T69,,,6.2
+2018,,CL_AGE.Y65T69,,,4.8
+2015,,CL_AGE.Y_GE70,,,4.3
+2016,,CL_AGE.Y_GE70,,,13.9
+2017,,CL_AGE.Y_GE70,,,10.6
+2018,,CL_AGE.Y_GE70,,,3.7
+2015,,,CL_URBANISATION.U,,18.1
+2016,,,CL_URBANISATION.U,,11.8
+2017,,,CL_URBANISATION.U,,13.2
+2018,,,CL_URBANISATION.U,,13.0
+2015,,,CL_URBANISATION.R,,25.5
+2016,,,CL_URBANISATION.R,,21.8
+2017,,,CL_URBANISATION.R,,20.7
+2018,,,CL_URBANISATION.R,,16.9
+2015,,,,CL_ACTIVITY.ISIC4_A,29.1
+2016,,,,CL_ACTIVITY.ISIC4_A,24.5
+2017,,,,CL_ACTIVITY.ISIC4_A,22.6
+2018,,,,CL_ACTIVITY.ISIC4_A,21.9
+2015,,,,CL_ACTIVITY.ISIC4_B,25.7
+2016,,,,CL_ACTIVITY.ISIC4_B,17.4
+2017,,,,CL_ACTIVITY.ISIC4_B,43.5
+2018,,,,CL_ACTIVITY.ISIC4_B,46.5
+2015,,,,CL_ACTIVITY.ISIC4_C,20.7
+2016,,,,CL_ACTIVITY.ISIC4_C,16.8
+2017,,,,CL_ACTIVITY.ISIC4_C,19.3
+2018,,,,CL_ACTIVITY.ISIC4_C,13.0
+2015,,,,CL_ACTIVITY.ISIC4_D,10.4
+2016,,,,CL_ACTIVITY.ISIC4_D,6.7
+2017,,,,CL_ACTIVITY.ISIC4_D,16.8
+2018,,,,CL_ACTIVITY.ISIC4_D,9.9
+2015,,,,CL_ACTIVITY.ISIC4_E,8.8
+2016,,,,CL_ACTIVITY.ISIC4_E,11.0
+2017,,,,CL_ACTIVITY.ISIC4_E,16.9
+2018,,,,CL_ACTIVITY.ISIC4_E,14.4
+2015,,,,CL_ACTIVITY.ISIC4_F,30.5
+2016,,,,CL_ACTIVITY.ISIC4_F,21.9
+2017,,,,CL_ACTIVITY.ISIC4_F,25.2
+2018,,,,CL_ACTIVITY.ISIC4_F,18.3
+2015,,,,CL_ACTIVITY.ISIC4_G,17.0
+2016,,,,CL_ACTIVITY.ISIC4_G,13.9
+2017,,,,CL_ACTIVITY.ISIC4_G,12.7
+2018,,,,CL_ACTIVITY.ISIC4_G,12.4
+2015,,,,CL_ACTIVITY.ISIC4_H,22.3
+2016,,,,CL_ACTIVITY.ISIC4_H,20.9
+2017,,,,CL_ACTIVITY.ISIC4_H,18.0
+2018,,,,CL_ACTIVITY.ISIC4_H,14.2
+2015,,,,CL_ACTIVITY.ISIC4_I,18.2
+2016,,,,CL_ACTIVITY.ISIC4_I,14.0
+2017,,,,CL_ACTIVITY.ISIC4_I,10.5
+2018,,,,CL_ACTIVITY.ISIC4_I,10.1
+2015,,,,CL_ACTIVITY.ISIC4_J,23.4
+2016,,,,CL_ACTIVITY.ISIC4_J,12.6
+2017,,,,CL_ACTIVITY.ISIC4_J,7.2
+2018,,,,CL_ACTIVITY.ISIC4_J,7.4
+2015,,,,CL_ACTIVITY.ISIC4_K,10.5
+2016,,,,CL_ACTIVITY.ISIC4_K,7.0
+2017,,,,CL_ACTIVITY.ISIC4_K,11.9
+2018,,,,CL_ACTIVITY.ISIC4_K,10.7
+2015,,,,CL_ACTIVITY.ISIC4_L,3.9
+2016,,,,CL_ACTIVITY.ISIC4_L,1.6
+2017,,,,CL_ACTIVITY.ISIC4_L,1.9
+2015,,,,CL_ACTIVITY.ISIC4_M,19.0
+2016,,,,CL_ACTIVITY.ISIC4_M,6.4
+2017,,,,CL_ACTIVITY.ISIC4_M,10.7
+2018,,,,CL_ACTIVITY.ISIC4_M,6.2
+2015,,,,CL_ACTIVITY.ISIC4_N,13.6
+2016,,,,CL_ACTIVITY.ISIC4_N,9.7
+2017,,,,CL_ACTIVITY.ISIC4_N,17.4
+2018,,,,CL_ACTIVITY.ISIC4_N,10.9
+2015,,,,CL_ACTIVITY.ISIC4_O,16.9
+2016,,,,CL_ACTIVITY.ISIC4_O,9.9
+2017,,,,CL_ACTIVITY.ISIC4_O,10.1
+2018,,,,CL_ACTIVITY.ISIC4_O,6.6
+2015,,,,CL_ACTIVITY.ISIC4_P,20.4
+2016,,,,CL_ACTIVITY.ISIC4_P,16.1
+2017,,,,CL_ACTIVITY.ISIC4_P,18.6
+2018,,,,CL_ACTIVITY.ISIC4_P,18.9
+2015,,,,CL_ACTIVITY.ISIC4_Q,13.3
+2016,,,,CL_ACTIVITY.ISIC4_Q,11.6
+2017,,,,CL_ACTIVITY.ISIC4_Q,15.2
+2018,,,,CL_ACTIVITY.ISIC4_Q,12.0
+2015,,,,CL_ACTIVITY.ISIC4_R,24.9
+2016,,,,CL_ACTIVITY.ISIC4_R,22.9
+2017,,,,CL_ACTIVITY.ISIC4_R,13.5
+2018,,,,CL_ACTIVITY.ISIC4_R,10.0
+2015,,,,CL_ACTIVITY.ISIC4_S,14.3
+2016,,,,CL_ACTIVITY.ISIC4_S,10.5
+2017,,,,CL_ACTIVITY.ISIC4_S,9.7
+2018,,,,CL_ACTIVITY.ISIC4_S,9.1
+2015,,,,CL_ACTIVITY.ISIC4_T,24.0
+2016,,,,CL_ACTIVITY.ISIC4_T,46.9
+2017,,,,CL_ACTIVITY.ISIC4_T,31.5
+2018,,,,CL_ACTIVITY.ISIC4_T,23.4
+2017,,,,CL_ACTIVITY.ISIC4_U,15.6
