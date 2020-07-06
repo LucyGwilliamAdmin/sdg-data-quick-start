@@ -78,3 +78,4 @@ reporting_status_extra_fields: []
 # to create a file called "open_sdg_alter.py" in the same folder as this file.
 # To perform data alterations, it should include a function called "alter_data".
 # To perform meta alterations, it should include a function called "alter_meta".
+
