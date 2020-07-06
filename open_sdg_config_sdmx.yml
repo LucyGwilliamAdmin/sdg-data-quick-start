@@ -9,6 +9,7 @@
 languages:
   - ru
   - en
+  - zh-Hans
 
 # Source directory
 # ----------------
