@@ -1,0 +1,1 @@
+{"data":{"Year":["2018","2018","2018","2018","2018","2018"],"concept.SEX":[null,"CL_SEX.M","CL_SEX.F",null,null,null],"concept.AGE":["CL_AGE.Y5T17","CL_AGE.Y5T17","CL_AGE.Y5T17","CL_AGE.Y5T11","CL_AGE.Y12T14","CL_AGE.Y15T17"],"Value":[26.7,33.6,19.0,27.9,23.3,26.6]},"edges":{"From":["concept.AGE"],"To":["concept.SEX"]}}
