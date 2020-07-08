@@ -71,7 +71,8 @@ schema_file: _prose.yml
 # -----------------------------
 # This allows the build to generate stats for reporting status by additional
 # fields, beyond the default "status by goal" report.
-reporting_status_extra_fields: []
+reporting_status_extra_fields:
+  - target_id
 
 # Data and metadata alterations
 # -----------------------------
